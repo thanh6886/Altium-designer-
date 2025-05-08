@@ -1,0 +1,19 @@
+Added Component: Designator=ANT1(ANTENNA SMA-KHD)
+Added Component: Designator=ANT_2(ANTENNA SMA-KHD)
+Added Pin To Net: NetName=GND Pin=ANT1-0
+Added Pin To Net: NetName=GND Pin=ANT1-0
+Added Pin To Net: NetName=GND Pin=ANT1-0
+Added Pin To Net: NetName=GND Pin=ANT1-0
+Added Pin To Net: NetName=NetD4_C Pin=ANT1-1
+Added Pin To Net: NetName=GND Pin=ANT_2-0
+Added Pin To Net: NetName=GND Pin=ANT_2-0
+Added Pin To Net: NetName=GND Pin=ANT_2-0
+Added Pin To Net: NetName=GND Pin=ANT_2-0
+Added Pin To Net: NetName=NetC6_2 Pin=ANT_2-1
+Change Net Name : Old Net Name=NetC6_2 New Net Name=NetANT_2_1
+Change Net Name : Old Net Name=NetD4_C New Net Name=NetANT1_1
+Added Member To Class: ClassName=Sheet Member=Component ANT1 ANT
+Added Member To Class: ClassName=Sheet Member=Component ANT_2 ANT
+Added Member To Class: ClassName=Sheet Member=Component D1 B340A-13
+Added Member To Class: ClassName=Sheet Member=Component J1 NSIM-2-C
+Added Member To Class: ClassName=Sheet Member=Component L1 LED 0805

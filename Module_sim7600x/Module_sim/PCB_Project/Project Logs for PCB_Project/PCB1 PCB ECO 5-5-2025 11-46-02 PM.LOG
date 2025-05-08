@@ -1,0 +1,43 @@
+Added Component: Designator=SIM7600(SIM7600CE - duplicate)
+Added Pin To Net: NetName=GND Pin=SIM7600-1
+Added Pin To Net: NetName=GND Pin=SIM7600-2
+Added Pin To Net: NetName=SIM-POW Pin=SIM7600-3
+Added Pin To Net: NetName=SIM-RST Pin=SIM7600-4
+Added Pin To Net: NetName=GND Pin=SIM7600-5
+Added Pin To Net: NetName=GND Pin=SIM7600-10
+Added Pin To Net: NetName=VBUS Pin=SIM7600-11
+Added Pin To Net: NetName=D- Pin=SIM7600-12
+Added Pin To Net: NetName=D+ Pin=SIM7600-13
+Added Pin To Net: NetName=GND Pin=SIM7600-14
+Added Pin To Net: NetName=1V8 Pin=SIM7600-15
+Added Pin To Net: NetName=NetC13_2 Pin=SIM7600-17
+Added Pin To Net: NetName=NetC12_2 Pin=SIM7600-18
+Added Pin To Net: NetName=NetC11_2 Pin=SIM7600-19
+Added Pin To Net: NetName=NetC14_2 Pin=SIM7600-20
+Added Pin To Net: NetName=GND Pin=SIM7600-37
+Added Pin To Net: NetName=+3.8V Pin=SIM7600-38
+Added Pin To Net: NetName=+3.8V Pin=SIM7600-39
+Added Pin To Net: NetName=GND Pin=SIM7600-40
+Added Pin To Net: NetName=GND Pin=SIM7600-41
+Added Pin To Net: NetName=GND Pin=SIM7600-43
+Added Pin To Net: NetName=SIM-STATUS Pin=SIM7600-49
+Added Pin To Net: NetName=SIM-LIGHT Pin=SIM7600-51
+Added Pin To Net: NetName=GND Pin=SIM7600-57
+Added Pin To Net: NetName=GND Pin=SIM7600-58
+Added Pin To Net: NetName=GND Pin=SIM7600-60
+Added Pin To Net: NetName=GND Pin=SIM7600-61
+Added Pin To Net: NetName=+3.8V Pin=SIM7600-62
+Added Pin To Net: NetName=+3.8V Pin=SIM7600-63
+Added Pin To Net: NetName=GND Pin=SIM7600-64
+Added Pin To Net: NetName=GND Pin=SIM7600-65
+Added Pin To Net: NetName=SIM-RX-1.8V Pin=SIM7600-68
+Added Pin To Net: NetName=SIM-TX-1.8V Pin=SIM7600-71
+Added Pin To Net: NetName=GND Pin=SIM7600-77
+Added Pin To Net: NetName=GND Pin=SIM7600-78
+Added Pin To Net: NetName=NetC6_1 Pin=SIM7600-79
+Added Pin To Net: NetName=GND Pin=SIM7600-80
+Added Pin To Net: NetName=GND Pin=SIM7600-81
+Added Pin To Net: NetName=NetANT1_1 Pin=SIM7600-82
+Added Pin To Net: NetName=NetR11_1 Pin=SIM7600-85
+Added Member To Class: ClassName=Sheet Member=Component SIM7600 SIM760x
+Added Room: Name=Sheet
