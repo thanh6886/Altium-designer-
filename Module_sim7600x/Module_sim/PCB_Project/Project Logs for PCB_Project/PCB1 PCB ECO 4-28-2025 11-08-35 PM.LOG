@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=D4-A
-Removed Pin From Net: NetName=NetANT1_1 Pin=D4-C
-Removed Member From Class: ClassName=Sheet Member=D4
-Added Component: Designator=D?(D_0402)
-Added Pin To Net: NetName=GND Pin=D?-A
-Added Pin To Net: NetName=NetANT1_1 Pin=D?-K
-Added Member To Class: ClassName=Sheet Member=Component D? D_TVS_0402
-Added Member To Class: ClassName=Sheet Member=Component L1 LED 0805
