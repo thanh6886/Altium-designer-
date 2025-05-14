@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=VBUS Pin=C1-2
+Removed Pin From Net: NetName=VBUS Pin=C2-2
+Removed Pin From Net: NetName=VBUS Pin=R2-2
+Removed Pin From Net: NetName=VBUS Pin=U-2
+Added Component: Designator=C17(CAPAE120103X105N)
+Add component (AddParameter): Name = "LCSC"; Value = "C178532"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "EEEFK1C102SP"; VariantName = "[No Variations]"
+Added Component: Designator=D3(B340A)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B340A-13/Diodes+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Diodes Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B340A-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214 Diodes Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/B340A-13/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B340A-13/Diodes+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=f1(Cau chi tu phuc hoi 2A 24V SMD1812 - duplicate)
+Added Component: Designator=T? tantalum 7343 477C 16V 470uF 7.3x4.3mm(tu tantalum smd7343)
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=VBUS Pin=f1-1
+Added Pin To Net: NetName=+3.8V Pin=T? tantalum 7343 477C 16V 470uF 7.3x4.3mm-1
+Added Pin To Net: NetName=GND Pin=T? tantalum 7343 477C 16V 470uF 7.3x4.3mm-2
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=C2-2
+Added Pin To Net: NetName=NetC1_2 Pin=C17-1
+Added Pin To Net: NetName=NetC1_2 Pin=D3-C
+Added Pin To Net: NetName=NetC1_2 Pin=R2-2
+Added Pin To Net: NetName=NetC1_2 Pin=U-2
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetD3_A Pin=D3-A
+Added Pin To Net: NetName=NetD3_A Pin=f1-2
+Added Net: Name=NetD3_A
+Added Member To Class: ClassName=Sheet Member=Component C17 1000u
+Added Member To Class: ClassName=Sheet Member=Component D3 B340A-13
+Added Member To Class: ClassName=Sheet Member=Component f1 FUSE_H
+Added Member To Class: ClassName=Sheet Member=Component T? tantalum 7343 477C 16V 470uF 7.3x4.3mm CAP 477C
+Added Room: Name=Sheet
