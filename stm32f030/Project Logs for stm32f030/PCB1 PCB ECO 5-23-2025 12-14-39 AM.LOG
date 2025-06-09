@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=+5 Pin=ISO1-4
+Added Pin To Net: NetName=NetISO1_3 Pin=ISO1-3
+Added Pin To Net: NetName=NetISO1_3 Pin=R6-1
+Added Net: Name=NetISO1_3
+Added Room: Name=Sheet1
