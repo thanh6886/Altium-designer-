@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=R2-1
+Removed Pin From Net: NetName=NetR1_1 Pin=R2-2
+Removed Pin From Net: NetName=NetR1_1 Pin=U1-4
+Removed Member From Class: ClassName=Sheet1 Member=R2
+Change Component Designator: OldDesignator=CAP NewDesignator=CAP_1
+Change Component Designator: OldDesignator=H1 NewDesignator=H?
+Change Component Designator: OldDesignator=H4 NewDesignator=H?
+Change Component Designator: OldDesignator=J1 NewDesignator=JACK?
+Added Component: Designator=VR1(RVAR)
+Add component (AddParameter): Name = "Value"; Value = "VR 10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=VR1-1
+Added Pin To Net: NetName=NetR1_1 Pin=VR1-3
+Added Pin To Net: NetName=NetU1_4 Pin=U1-4
+Added Pin To Net: NetName=NetU1_4 Pin=VR1-2
+Added Net: Name=NetU1_4
+Added Member To Class: ClassName=Sheet1 Member=Component H? IN
+Added Member To Class: ClassName=Sheet1 Member=Component VR1 10K
+Added Room: Name=Sheet1

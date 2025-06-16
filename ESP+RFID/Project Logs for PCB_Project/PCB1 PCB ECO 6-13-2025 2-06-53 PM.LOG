@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=VR1-1
+Removed Pin From Net: NetName=NetR1_1 Pin=VR1-3
+Removed Member From Class: ClassName=Sheet1 Member=VR1
+Added Component: Designator=R2(RES_0805)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=NetR1_1 Pin=R2-2
+Added Pin To Net: NetName=NetR1_1 Pin=U1-4
+Added Member To Class: ClassName=Sheet1 Member=Component H? OUT
+Added Member To Class: ClassName=Sheet1 Member=Component R2 5.8k
