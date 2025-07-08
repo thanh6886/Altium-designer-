@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetC14_2 Pin=Y1-1
+Removed Pin From Net: NetName=NetC14_2 Pin=Y1-1
+Removed Pin From Net: NetName=XIN Pin=Y1-2
+Removed Pin From Net: NetName=XIN Pin=Y1-2
+Removed Member From Class: ClassName=Sheet1 Member=Y1
+Added Component: Designator=X1(XTAL_3215-2)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC14_2 Pin=X1-1
+Added Pin To Net: NetName=XIN Pin=X1-2
+Added Member To Class: ClassName=Sheet1 Member=Component X1 XTAL_3215

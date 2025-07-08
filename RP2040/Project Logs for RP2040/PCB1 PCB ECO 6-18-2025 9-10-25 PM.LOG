@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=RUN Pin=SW1-1
+Removed Pin From Net: NetName=GND Pin=SW1-2
+Removed Pin From Net: NetName=+3V3 Pin=U3-4
+Removed Pin From Net: NetName=NetC14_2 Pin=X1-1
+Removed Pin From Net: NetName=XIN Pin=X1-2
+Change Component Footprint: Designator=SW1 Old Footprint=DTSM-3 New Footprint=SKRPANE010
+Change Component Footprint: Designator=X1 Old Footprint=XTAL_3215-2 New Footprint=XTAL_3225
+Change Component Comment : Designator=SW1 Old Comment=DTSM-3 New Comment=SKRPANE010
+Change Component Comment : Designator=X1 Old Comment=XTAL_3215 New Comment=24MHz
+Change component parameters: Designator = "SW1" ("SW1"); Footprint = "DTSM-3"; UniqueID = "\WCGVSPGT" ("\WCGVSPGT")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Alps Alpine"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "SKRPANE010"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X1" ("X1"); Footprint = "XTAL_3215-2"; UniqueID = "\CNONITTL" ("\CNONITTL")
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Epson"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "TSX-3225 24.0000MF15X-AC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RUN Pin=SW1-12
+Added Pin To Net: NetName=RUN Pin=SW1-12
+Added Pin To Net: NetName=GND Pin=SW1-34
+Added Pin To Net: NetName=GND Pin=SW1-34
+Added Pin To Net: NetName=XIN Pin=X1-1
+Added Pin To Net: NetName=GND Pin=X1-2
+Added Pin To Net: NetName=NetC14_2 Pin=X1-3
+Added Pin To Net: NetName=GND Pin=X1-4
+Added Room: Name=Sheet1

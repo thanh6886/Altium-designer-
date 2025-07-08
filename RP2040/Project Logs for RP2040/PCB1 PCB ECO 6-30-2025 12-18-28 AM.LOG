@@ -1,0 +1,6 @@
+Change Component Comment : Designator=LED_DEBUG Old Comment=LED_0805_RED New Comment=LED_DEBUG
+Change Component Comment : Designator=LED_POW Old Comment=LED_0805_RED New Comment=LED_POW
+Change Component Designator: OldDesignator=LED_DEBUG NewDesignator=LED2
+Change Component Designator: OldDesignator=LED_POW NewDesignator=LED1
+Change Net Name : Old Net Name=NetLED_DEBUG_1 New Net Name=NetLED2_1
+Change Net Name : Old Net Name=NetLED_POW_1 New Net Name=NetLED1_1

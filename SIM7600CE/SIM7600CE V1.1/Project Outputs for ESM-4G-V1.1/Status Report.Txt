@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [ESM-4G-V1.1.PrjPcb]
+   Generated File[ESM-4G-V1.1.TXT]
+   Generated File[ESM-4G-V1.1.LDP]
+   Generated File[ESM-4G-V1.1.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 1:34:42 PM On 23/08/2024

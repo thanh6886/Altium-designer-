@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=VSYS Pin=H2-3
+Added Pin To Net: NetName=+3V3 Pin=H2-3
