@@ -72,7 +72,11 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=GQEDPURG
+DocumentUniqueId=XMWKXDDY
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for RP2040\Design Rule Check - PCB1.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources

@@ -1,0 +1,45 @@
+Added Component: Designator=H1(JUMP 1X20 DT)
+Added Component: Designator=H2(JUMP 1X20 DT)
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=+3V3 Pin=H1-2
+Added Pin To Net: NetName=IO15 Pin=H1-3
+Added Pin To Net: NetName=IO14 Pin=H1-4
+Added Pin To Net: NetName=IO13 Pin=H1-5
+Added Pin To Net: NetName=IO12 Pin=H1-6
+Added Pin To Net: NetName=IO11 Pin=H1-7
+Added Pin To Net: NetName=IO10 Pin=H1-8
+Added Pin To Net: NetName=IO9 Pin=H1-9
+Added Pin To Net: NetName=IO8 Pin=H1-10
+Added Pin To Net: NetName=IO7 Pin=H1-11
+Added Pin To Net: NetName=IO6 Pin=H1-12
+Added Pin To Net: NetName=IO5 Pin=H1-13
+Added Pin To Net: NetName=IO4 Pin=H1-14
+Added Pin To Net: NetName=IO3 Pin=H1-15
+Added Pin To Net: NetName=IO2 Pin=H1-16
+Added Pin To Net: NetName=IO1 Pin=H1-17
+Added Pin To Net: NetName=IO0 Pin=H1-18
+Added Pin To Net: NetName=GND Pin=H1-19
+Added Pin To Net: NetName=GND Pin=H1-20
+Added Pin To Net: NetName=+3V3 Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-2
+Added Pin To Net: NetName=+3V3 Pin=H2-3
+Added Pin To Net: NetName=IO16 Pin=H2-4
+Added Pin To Net: NetName=IO17 Pin=H2-5
+Added Pin To Net: NetName=IO18 Pin=H2-6
+Added Pin To Net: NetName=IO19 Pin=H2-7
+Added Pin To Net: NetName=IO20 Pin=H2-8
+Added Pin To Net: NetName=IO21 Pin=H2-9
+Added Pin To Net: NetName=IO22 Pin=H2-10
+Added Pin To Net: NetName=IO23 Pin=H2-11
+Added Pin To Net: NetName=IO24 Pin=H2-12
+Added Pin To Net: NetName=IO25 Pin=H2-13
+Added Pin To Net: NetName=ADC0 Pin=H2-14
+Added Pin To Net: NetName=ADC1 Pin=H2-15
+Added Pin To Net: NetName=ADC2 Pin=H2-16
+Added Pin To Net: NetName=ADC3 Pin=H2-17
+Added Pin To Net: NetName=GND Pin=H2-18
+Added Pin To Net: NetName=VSYS Pin=H2-19
+Added Pin To Net: NetName=VSYS Pin=H2-20
+Added Member To Class: ClassName=Sheet1 Member=Component H1 JP_20_CC
+Added Member To Class: ClassName=Sheet1 Member=Component H2 JP_20_CC
+Added Room: Name=Sheet1
