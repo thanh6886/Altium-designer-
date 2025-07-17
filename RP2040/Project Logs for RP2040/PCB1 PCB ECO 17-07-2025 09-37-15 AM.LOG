@@ -1,0 +1,41 @@
+Removed Member From Class: ClassName=Sheet1 Member=R?
+Change Component DesignItemId : Designator=R1 Old DesignItemId=RES_0805 New DesignItemId=RES_0603
+Change Component DesignItemId : Designator=R2 Old DesignItemId=RES_0805 New DesignItemId=RES_0603
+Change Component DesignItemId : Designator=R3 Old DesignItemId=RES_0805 New DesignItemId=RES_0603
+Change Component DesignItemId : Designator=R4 Old DesignItemId=RES_0805 New DesignItemId=RES_0603
+Change Component DesignItemId : Designator=R5 Old DesignItemId=RES_0805 New DesignItemId=RES_0603
+Change Component DesignItemId : Designator=R6 Old DesignItemId=RES_0805 New DesignItemId=RES_0603
+Change Component DesignItemId : Designator=R7 Old DesignItemId=RES_0805 New DesignItemId=RES_0603
+Change Component DesignItemId : Designator=R8 Old DesignItemId=RES_0805 New DesignItemId=RES_0603
+Change Component DesignItemId : Designator=R9 Old DesignItemId=RES_0805 New DesignItemId=RES_0603
+Change Component DesignItemId : Designator=R10 Old DesignItemId=RES_0805 New DesignItemId=RES_0603
+Change Component Footprint: Designator=R1 Old Footprint=RES_0805 New Footprint=RES_0603
+Change Component Footprint: Designator=R2 Old Footprint=RES_0805 New Footprint=RES_0603
+Change Component Footprint: Designator=R3 Old Footprint=RES_0805 New Footprint=RES_0603
+Change Component Footprint: Designator=R4 Old Footprint=RES_0805 New Footprint=RES_0603
+Change Component Footprint: Designator=R5 Old Footprint=RES_0805 New Footprint=RES_0603
+Change Component Footprint: Designator=R6 Old Footprint=RES_0805 New Footprint=RES_0603
+Change Component Footprint: Designator=R7 Old Footprint=RES_0805 New Footprint=RES_0603
+Change Component Footprint: Designator=R8 Old Footprint=RES_0805 New Footprint=RES_0603
+Change Component Footprint: Designator=R9 Old Footprint=RES_0805 New Footprint=RES_0603
+Change Component Footprint: Designator=R10 Old Footprint=RES_0805 New Footprint=RES_0603
+Change Component Comment : Designator=R1 Old Comment=R0805 New Comment=R0603
+Change Component Comment : Designator=R2 Old Comment=R0805 New Comment=R0603
+Change Component Comment : Designator=R3 Old Comment=R0805 New Comment=R0603
+Change Component Comment : Designator=R4 Old Comment=R0805 New Comment=R0603
+Change Component Comment : Designator=R5 Old Comment=R0805 New Comment=R0603
+Change Component Comment : Designator=R6 Old Comment=R0805 New Comment=R0603
+Change Component Comment : Designator=R7 Old Comment=R0805 New Comment=R0603
+Change Component Comment : Designator=R8 Old Comment=R0805 New Comment=R0603
+Change Component Comment : Designator=R9 Old Comment=R0805 New Comment=R0603
+Change Component Comment : Designator=R10 Old Comment=R0805 New Comment=R0603
+Change Component Description : Designator=R1 Old Description=Resistor SMD 0805 New Description=Resistor SMD 0603
+Change Component Description : Designator=R2 Old Description=Resistor SMD 0805 New Description=Resistor SMD 0603
+Change Component Description : Designator=R3 Old Description=Resistor SMD 0805 New Description=Resistor SMD 0603
+Change Component Description : Designator=R4 Old Description=Resistor SMD 0805 New Description=Resistor SMD 0603
+Change Component Description : Designator=R5 Old Description=Resistor SMD 0805 New Description=Resistor SMD 0603
+Change Component Description : Designator=R6 Old Description=Resistor SMD 0805 New Description=Resistor SMD 0603
+Change Component Description : Designator=R7 Old Description=Resistor SMD 0805 New Description=Resistor SMD 0603
+Change Component Description : Designator=R8 Old Description=Resistor SMD 0805 New Description=Resistor SMD 0603
+Change Component Description : Designator=R9 Old Description=Resistor SMD 0805 New Description=Resistor SMD 0603
+Change Component Description : Designator=R10 Old Description=Resistor SMD 0805 New Description=Resistor SMD 0603
