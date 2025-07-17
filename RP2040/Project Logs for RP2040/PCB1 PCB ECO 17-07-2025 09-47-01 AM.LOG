@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=C13-1
+Removed Pin From Net: NetName=GND Pin=C14-1
+Removed Pin From Net: NetName=GND Pin=C15-1
+Change Component DesignItemId : Designator=C8 Old DesignItemId=CAP_0805 New DesignItemId=CAP_0603
+Change Component DesignItemId : Designator=C13 Old DesignItemId=CAP_0805 New DesignItemId=CAP_0603
+Change Component DesignItemId : Designator=C14 Old DesignItemId=CAP_0805 New DesignItemId=CAP_0603
+Change Component DesignItemId : Designator=C15 Old DesignItemId=CAP_0805 New DesignItemId=CAP_0603
+Change Component Footprint: Designator=C8 Old Footprint=CAP_0805 New Footprint=CAP_0603
+Change Component Footprint: Designator=C13 Old Footprint=CAP_0805 New Footprint=CAP_0603
+Change Component Footprint: Designator=C14 Old Footprint=CAP_0805 New Footprint=CAP_0603
+Change Component Footprint: Designator=C15 Old Footprint=CAP_0805 New Footprint=CAP_0603
+Change Component Comment : Designator=C8 Old Comment=C0805 New Comment=C0603
+Change Component Comment : Designator=C13 Old Comment=C0805 New Comment=C0603
+Change Component Comment : Designator=C14 Old Comment=C0805 New Comment=C0603
+Change Component Comment : Designator=C15 Old Comment=C0805 New Comment=C0603
+Change Component Description : Designator=C8 Old Description=Capacitor SMD 0805 New Description=Capacitor SMD 0603
+Change Component Description : Designator=C13 Old Description=Capacitor SMD 0805 New Description=Capacitor SMD 0603
+Change Component Description : Designator=C14 Old Description=Capacitor SMD 0805 New Description=Capacitor SMD 0603
+Change Component Description : Designator=C15 Old Description=Capacitor SMD 0805 New Description=Capacitor SMD 0603

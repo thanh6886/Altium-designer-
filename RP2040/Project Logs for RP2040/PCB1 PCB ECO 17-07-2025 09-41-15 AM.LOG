@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=LED1-2
+Removed Pin From Net: NetName=IO0 Pin=LED2-2
+Change Component DesignItemId : Designator=LED1 Old DesignItemId=LED_0805_RED New DesignItemId=LED_0603_RED
+Change Component DesignItemId : Designator=LED2 Old DesignItemId=LED_0805_RED New DesignItemId=LED_0603_RED
+Change Component Footprint: Designator=P2 Old Footprint=HDR1X3 New Footprint=HDR1X3H
+Change Component Footprint: Designator=LED1 Old Footprint=LED-0805-Red New Footprint=LED_0603_RED
+Change Component Footprint: Designator=LED2 Old Footprint=LED-0805-Red New Footprint=LED_0603_RED
+Change Component Comment : Designator=LED2 Old Comment=LED_DEBUG New Comment=RED
+Change Component Comment : Designator=LED1 Old Comment=LED_POW New Comment=RED
+Change Component Description : Designator=LED1 Old Description= New Description=LED 0603 RED SMD
+Change Component Description : Designator=LED2 Old Description= New Description=LED 0603 RED SMD
+Added Pin To Net: NetName=GND Pin=LED1-K
+Added Pin To Net: NetName=NetLED1_A Pin=LED1-A
+Added Pin To Net: NetName=NetLED1_A Pin=R9-2
+Added Net: Name=NetLED1_A
+Added Pin To Net: NetName=NetLED2_A Pin=LED2-A
+Added Pin To Net: NetName=NetLED2_A Pin=R10-1
+Added Net: Name=NetLED2_A
