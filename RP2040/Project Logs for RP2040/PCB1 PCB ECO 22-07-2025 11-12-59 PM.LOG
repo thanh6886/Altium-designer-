@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=+3V3 Pin=U3-4
+Change Component Designator: OldDesignator= NewDesignator=U2
+Added Pin To Net: NetName=IO8 Pin=U2-11
+Added Net: Name=IO8
+Added Member To Class: ClassName=Sheet1 Member=Component D1 B340A-13
+Added Member To Class: ClassName=Sheet1 Member=Component U2 RP2040
+Added Room: Name=Sheet1
