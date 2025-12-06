@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=* NewDesignator=U
+Add Pin To Net: Unknown Pin: Pin U-14
+Change Net Name : Old Net Name=Net*_3 New Net Name=NetR4_1
+Add Differential Pair: Number of nets in differential pair USB_D+ is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair USB_D- is 1 instead of 2

@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=U NewDesignator=Uled
+Add Pin To Net: Unknown Pin: Pin Uled-14
+Add Differential Pair: Number of nets in differential pair USB_D+ is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair USB_D- is 1 instead of 2
+Added Member To Class: ClassName=Sheet Member=Component Uled U

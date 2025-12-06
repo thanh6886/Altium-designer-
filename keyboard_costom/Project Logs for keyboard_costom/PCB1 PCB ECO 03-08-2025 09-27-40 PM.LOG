@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=USB_D+ Pin=D1-6
+Added Net: Name=USB_D+
+Added Pin To Net: NetName=USB_D- Pin=D1-4
+Added Net: Name=USB_D-
+Added Member To Class: ClassName=Sheet Member=Component U AP2112K-3.3

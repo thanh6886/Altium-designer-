@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=* NewDesignator=LED2
+Change Component Designator: OldDesignator=* NewDesignator=U
+Change Net Name : Old Net Name=Net*_1 New Net Name=NetLED2_1
+Change Net Name : Old Net Name=Net*_3 New Net Name=NetR4_1
+Added Member To Class: ClassName=Sheet Member=Component LED2 LED_0805_RED

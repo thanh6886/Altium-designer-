@@ -1,0 +1,11 @@
+Added Component: Designator=TP3(PAD_SQ_2MM)
+Added Component: Designator=TP4(PAD_SQ_2MM)
+Added Pin To Net: NetName=NetRL1_4 Pin=RL1-4
+Added Pin To Net: NetName=NetRL1_4 Pin=TP1-1
+Added Net: Name=NetRL1_4
+Added Pin To Net: NetName=NetRL2_3 Pin=RL2-3
+Added Pin To Net: NetName=NetRL2_3 Pin=TP4-1
+Added Net: Name=NetRL2_3
+Added Pin To Net: NetName=NetRL2_4 Pin=RL2-4
+Added Pin To Net: NetName=NetRL2_4 Pin=TP3-1
+Added Net: Name=NetRL2_4
