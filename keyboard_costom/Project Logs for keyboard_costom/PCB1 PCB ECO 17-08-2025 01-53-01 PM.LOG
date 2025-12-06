@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=3.3V Pin=C2-2
+Removed Pin From Net: NetName=3.3V Pin=C3-2
+Removed Pin From Net: NetName=3.3V Pin=U-5
+Add Pin To Net: Unknown Pin: Pin Uled-14
+Added Pin To Net: NetName=+3.3V Pin=C2-2
+Added Pin To Net: NetName=+3.3V Pin=C3-2
+Added Pin To Net: NetName=+3.3V Pin=U-5
+Added Net: Name=+3.3V
+Add Differential Pair: Number of nets in differential pair USB_D+ is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair USB_D- is 1 instead of 2

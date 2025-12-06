@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=+3.3V Pin=P?-3
+Removed Pin From Net: NetName=GND Pin=U1-11
+Added Component: Designator=*(RFID RC522)
+Added Component: Designator=TP1(PAD_SQ_2MM)
+Added Component: Designator=TP2(PAD_SQ_2MM)
+Added Pin To Net: NetName=NetRL1_3 Pin=RL1-3
+Added Pin To Net: NetName=NetRL1_3 Pin=TP2-1
+Added Net: Name=NetRL1_3

@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=+12 Pin=D3-C
+Removed Pin From Net: NetName=+12 Pin=D4-C
+Change Component Footprint: Designator=D3 Old Footprint=B340A New Footprint=DIODE SMA 1
+Change Component Footprint: Designator=D4 Old Footprint=B340A New Footprint=DIODE SMA 1
+Change Component Comment : Designator=D3 Old Comment=B340A-13 New Comment=1N4148
+Change Component Comment : Designator=D4 Old Comment=B340A-13 New Comment=1N4148
+Change Component Designator: OldDesignator=L? NewDesignator=L1
+Change Component Designator: OldDesignator=R? NewDesignator=R16
+Change Component Designator: OldDesignator=R? NewDesignator=R17
+Change component parameters: Designator = "D3" ("D3"); Footprint = "B340A"; UniqueID = "\KNUJWUZS" ("\KNUJWUZS")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1N4148/Multicomp/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Multicomp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "1N4148"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "DO-204 Multicomp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1N4148/Multicomp/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D4" ("D4"); Footprint = "B340A"; UniqueID = "\VOHCSALR" ("\VOHCSALR")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1N4148/Multicomp/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Multicomp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "1N4148"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "DO-204 Multicomp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1N4148/Multicomp/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D3-K
+Add Pin To Net: Unknown Pin: Pin D4-K

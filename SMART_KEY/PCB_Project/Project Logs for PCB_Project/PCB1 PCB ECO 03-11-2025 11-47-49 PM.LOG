@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetC10_1 Pin=D3-A
+Removed Pin From Net: NetName=NetC13_1 Pin=D4-A
+Added Component: Designator=Z1(DIODE SMA 1)
+Added Component: Designator=Z2(DIODE SMA 1)
+Added Pin To Net: NetName=NetC10_1 Pin=Z1-1
+Added Pin To Net: NetName=+12 Pin=Z1-2
+Added Pin To Net: NetName=NetC13_1 Pin=Z2-1
+Added Pin To Net: NetName=+12 Pin=Z2-2

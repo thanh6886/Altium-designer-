@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator= C51 NewDesignator=C51
+Added Component: Designator=U10(TO252 DPAK)
+Add component (AddParameter): Name = "Text Field1"; Value = "70"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Text Field2"; Value = "30"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=sim7600CE Member=Component C51 100uF/10V
+Added Member To Class: ClassName=sim7600CE Member=Component U10 MIC29302
+Added Room: Name=sim7600CE

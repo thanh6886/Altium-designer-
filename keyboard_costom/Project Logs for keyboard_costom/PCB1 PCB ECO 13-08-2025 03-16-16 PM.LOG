@@ -1,0 +1,16 @@
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Added Component: Designator=*(SOT23 - 5 Leads)
+Added Pin To Net: NetName=5V_SYS Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-2
+Added Pin To Net: NetName=GND Pin=*-4
+Added Pin To Net: NetName=3.3V Pin=*-5
+Add Pin To Net: Unknown Pin: Pin U-14
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Pin To Net: NetName=Net*_3 Pin=R4-1
+Added Net: Name=Net*_3
+Add Differential Pair: Number of nets in differential pair USB_D+ is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair USB_D- is 1 instead of 2
+Added Member To Class: ClassName=Sheet Member=Component * AP2112K-3.3

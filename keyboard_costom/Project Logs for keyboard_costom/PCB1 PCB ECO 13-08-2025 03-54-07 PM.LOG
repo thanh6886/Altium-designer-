@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=IO9 Pin=R18-1
+Add Pin To Net: Unknown Pin: Pin U-14
+Add Differential Pair: Number of nets in differential pair USB_D+ is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair USB_D- is 1 instead of 2
+Added Member To Class: ClassName=Sheet Member=Component U
+Change Room Scope: Old Scope=All New Scope=InComponentClass('Sheet')

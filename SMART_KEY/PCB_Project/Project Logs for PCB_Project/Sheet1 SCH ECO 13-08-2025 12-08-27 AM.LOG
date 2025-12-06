@@ -1,0 +1,7 @@
+Change Net Color : Net Name= +3.3V Old Net Color=Yellow New Net Color=Default
+Change Net Color : Net Name= NetC1_1 Old Net Color=RGB(218, 36, 103) New Net Color=Default
+Change Net Color : Net Name= NetC2_2 Old Net Color=RGB(255, 110, 110) New Net Color=Default
+Change Net Color : Net Name= NetR1_1 Old Net Color=RGB(110, 255, 110) New Net Color=Default
+Change Net Color : Net Name= NetR2_1 Old Net Color=RGB(12, 0, 135) New Net Color=Default
+Change Net Color : Net Name= NetR4_2 Old Net Color=RGB(12, 0, 135) New Net Color=Default
+Change Net Color : Net Name= NetR5_2 Old Net Color=RGB(255, 110, 255) New Net Color=Default

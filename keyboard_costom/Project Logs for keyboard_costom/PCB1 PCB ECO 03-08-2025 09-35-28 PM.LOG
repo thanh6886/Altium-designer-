@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=USB_D- Pin=D1-4
+Removed Pin From Net: NetName=USB_D+ Pin=D1-6
+Added Pin To Net: NetName=USB_D+ Pin=D1-4
+Added Pin To Net: NetName=USB_D- Pin=D1-6
+Added Pin To Net: NetName=USB_D+ Pin=R6-2
+Added Pin To Net: NetName=USB_D- Pin=R7-2
+Added Member To Class: ClassName=Sheet Member=Component U AP2112K-3.3

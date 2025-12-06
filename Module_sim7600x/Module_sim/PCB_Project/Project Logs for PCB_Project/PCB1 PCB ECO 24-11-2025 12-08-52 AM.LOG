@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C50 Old Footprint=tu tantalum smd7343 New Footprint=tu tantalum smd3216
+Change Component Footprint: Designator=C51 Old Footprint=tu tantalum smd7343 New Footprint=tu tantalum smd3216
+Change Component Comment : Designator=C50 Old Comment=470nF/10V New Comment=100uF/10V
+Added Room: Name=sim7600CE

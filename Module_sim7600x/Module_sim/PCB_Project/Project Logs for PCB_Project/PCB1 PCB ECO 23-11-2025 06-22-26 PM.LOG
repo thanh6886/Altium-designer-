@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetR2_2 Pin=U-1
+Removed Pin From Net: NetName=5V Pin=U-2
+Removed Pin From Net: NetName=GND Pin=U-3
+Removed Pin From Net: NetName=GND Pin=U-3
+Removed Pin From Net: NetName=+3V8 Pin=U-4
+Removed Pin From Net: NetName=NetR3_1 Pin=U-5
+Removed Member From Class: ClassName=sim7600CE Member=U
+Added Component: Designator=U10(TO263-5)
+Added Pin To Net: NetName=NetR2_2 Pin=U10-1
+Added Pin To Net: NetName=5V Pin=U10-2
+Added Pin To Net: NetName=GND Pin=U10-3
+Added Pin To Net: NetName=+3V8 Pin=U10-4
+Added Pin To Net: NetName=NetR3_1 Pin=U10-5
+Added Pin To Net: NetName=GND Pin=U10-6
+Added Member To Class: ClassName=sim7600CE Member=Component U10 MIC29302

@@ -1,0 +1,89 @@
+Removed Pin From Net: NetName=R0 Pin=D9-C
+Removed Pin From Net: NetName=R0 Pin=D10-C
+Removed Pin From Net: NetName=R0 Pin=D11-C
+Removed Pin From Net: NetName=R1 Pin=D15-C
+Removed Pin From Net: NetName=R1 Pin=D16-C
+Removed Pin From Net: NetName=R1 Pin=D17-C
+Removed Pin From Net: NetName=R2 Pin=D18-C
+Removed Pin From Net: NetName=R2 Pin=D19-C
+Removed Pin From Net: NetName=R2 Pin=D20-C
+Removed Pin From Net: NetName=ENC1_SW Pin=D24-A
+Removed Pin From Net: NetName=R3 Pin=D24-C
+Removed Pin From Net: NetName=ENC2_SW Pin=D25-A
+Removed Pin From Net: NetName=R3 Pin=D25-C
+Removed Pin From Net: NetName=ENC3_SW Pin=D26-A
+Removed Pin From Net: NetName=R3 Pin=D26-C
+Removed Pin From Net: NetName=NetD9_A Pin=J2-P$2
+Removed Pin From Net: NetName=NetD10_A Pin=J3-P$2
+Removed Pin From Net: NetName=NetD11_A Pin=J4-P$2
+Removed Pin From Net: NetName=NetD15_A Pin=J5-P$2
+Removed Pin From Net: NetName=NetD16_A Pin=J6-P$2
+Removed Pin From Net: NetName=NetD17_A Pin=J7-P$2
+Removed Member From Class: ClassName=Sheet Member=D24
+Removed Member From Class: ClassName=Sheet Member=D25
+Removed Member From Class: ClassName=Sheet Member=D26
+Change Component Footprint: Designator=D9 Old Footprint=B340A New Footprint=D_0402
+Change Component Footprint: Designator=D10 Old Footprint=B340A New Footprint=D_0402
+Change Component Footprint: Designator=D11 Old Footprint=B340A New Footprint=D_0402
+Change Component Footprint: Designator=D15 Old Footprint=B340A New Footprint=D_0402
+Change Component Footprint: Designator=D16 Old Footprint=B340A New Footprint=D_0402
+Change Component Footprint: Designator=D17 Old Footprint=B340A New Footprint=D_0402
+Change Component Footprint: Designator=D18 Old Footprint=B340A New Footprint=D_0402
+Change Component Footprint: Designator=D19 Old Footprint=B340A New Footprint=D_0402
+Change Component Footprint: Designator=D20 Old Footprint=B340A New Footprint=D_0402
+Change Component Comment : Designator=D9 Old Comment=B340A-13 New Comment=D_TVS_0402
+Change Component Comment : Designator=D10 Old Comment=B340A-13 New Comment=D_TVS_0402
+Change Component Comment : Designator=D11 Old Comment=B340A-13 New Comment=D_TVS_0402
+Change Component Comment : Designator=D15 Old Comment=B340A-13 New Comment=D_TVS_0402
+Change Component Comment : Designator=D16 Old Comment=B340A-13 New Comment=D_TVS_0402
+Change Component Comment : Designator=D17 Old Comment=B340A-13 New Comment=D_TVS_0402
+Change Component Comment : Designator=D18 Old Comment=B340A-13 New Comment=D_TVS_0402
+Change Component Comment : Designator=D19 Old Comment=B340A-13 New Comment=D_TVS_0402
+Change Component Comment : Designator=D20 Old Comment=B340A-13 New Comment=D_TVS_0402
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change component parameters: Designator = "D9" ("D9"); Footprint = "B340A"; UniqueID = "\KETFBKNT" ("\KETFBKNT")
+Change component parameters: Designator = "D10" ("D10"); Footprint = "B340A"; UniqueID = "\KRDGFWXD" ("\KRDGFWXD")
+Change component parameters: Designator = "D11" ("D11"); Footprint = "B340A"; UniqueID = "\ORMWTFOD" ("\ORMWTFOD")
+Change component parameters: Designator = "D15" ("D15"); Footprint = "B340A"; UniqueID = "\VWGPZPOM" ("\VWGPZPOM")
+Change component parameters: Designator = "D16" ("D16"); Footprint = "B340A"; UniqueID = "\DEQGYNZM" ("\DEQGYNZM")
+Change component parameters: Designator = "D17" ("D17"); Footprint = "B340A"; UniqueID = "\QKASEQBI" ("\QKASEQBI")
+Change component parameters: Designator = "D18" ("D18"); Footprint = "B340A"; UniqueID = "\TJQWWFJA" ("\TJQWWFJA")
+Change component parameters: Designator = "D19" ("D19"); Footprint = "B340A"; UniqueID = "\MGLAOZJV" ("\MGLAOZJV")
+Change component parameters: Designator = "D20" ("D20"); Footprint = "B340A"; UniqueID = "\YHYWXOMJ" ("\YHYWXOMJ")
+Added Component: Designator=D4(D_0402)
+Added Component: Designator=D5(D_0402)
+Added Pin To Net: NetName=R0 Pin=D2-K
+Added Pin To Net: NetName=R0 Pin=D4-K
+Added Pin To Net: NetName=R0 Pin=D5-K
+Added Pin To Net: NetName=R1 Pin=D9-K
+Added Pin To Net: NetName=R1 Pin=D10-K
+Added Pin To Net: NetName=R1 Pin=D11-K
+Added Pin To Net: NetName=R2 Pin=D15-K
+Added Pin To Net: NetName=R2 Pin=D16-K
+Added Pin To Net: NetName=R2 Pin=D17-K
+Added Pin To Net: NetName=ENC1_SW Pin=D18-A
+Added Pin To Net: NetName=R3 Pin=D18-K
+Added Pin To Net: NetName=ENC2_SW Pin=D19-A
+Added Pin To Net: NetName=R3 Pin=D19-K
+Added Pin To Net: NetName=ENC3_SW Pin=D20-A
+Added Pin To Net: NetName=R3 Pin=D20-K
+Added Pin To Net: NetName=NetD9_A Pin=J5-P$2
+Added Pin To Net: NetName=NetD10_A Pin=J6-P$2
+Added Pin To Net: NetName=NetD11_A Pin=J7-P$2
+Added Pin To Net: NetName=NetD15_A Pin=J8-P$2
+Added Pin To Net: NetName=NetD16_A Pin=J9-P$2
+Added Pin To Net: NetName=NetD17_A Pin=J10-P$2
+Add Pin To Net: Unknown Pin: Pin Uled-14
+Added Pin To Net: NetName=NetD2_A Pin=D2-A
+Added Pin To Net: NetName=NetD2_A Pin=J2-P$2
+Added Net: Name=NetD2_A
+Added Pin To Net: NetName=NetD4_A Pin=D4-A
+Added Pin To Net: NetName=NetD4_A Pin=J3-P$2
+Added Net: Name=NetD4_A
+Added Pin To Net: NetName=NetD5_A Pin=D5-A
+Added Pin To Net: NetName=NetD5_A Pin=J4-P$2
+Added Net: Name=NetD5_A
+Add Differential Pair: Number of nets in differential pair USB_D+ is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair USB_D- is 1 instead of 2
+Added Member To Class: ClassName=Sheet Member=Component D4 D_TVS_0402
+Added Member To Class: ClassName=Sheet Member=Component D5 D_TVS_0402
