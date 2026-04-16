@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=5V Pin=R2-1
+Removed Pin From Net: NetName=5V Pin=U10-2
+Removed Pin From Net: NetName=GND Pin=U10-3
+Removed Pin From Net: NetName=+3V8 Pin=U10-4
+Removed Pin From Net: NetName=NetR3_1 Pin=U10-5
+Removed Pin From Net: NetName=GND Pin=U10-6
+Removed Member From Class: ClassName=sim7600CE Member=R2
+Change Component Comment : Designator=C9 Old Comment=10uF New Comment=0.1uF
+Change Component Comment : Designator=C10 Old Comment=33pF New Comment=22pF
+Change Component Comment : Designator=C11 Old Comment=100nF New Comment=0.1uF
+Added Component: Designator=U2(TO252 DPAK)
+Added Pin To Net: NetName=NetR3_1 Pin=U2-1
+Added Pin To Net: NetName=+3V8 Pin=U2-2
+Added Pin To Net: NetName=5V Pin=U2-3
+Added Member To Class: ClassName=sim7600CE Member=Component U2 AZ1084CD-ADJTRG1

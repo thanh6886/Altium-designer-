@@ -1,0 +1,126 @@
+Removed Pin From Net: NetName=5V Pin=d1-A
+Removed Pin From Net: NetName=GND Pin=d1-C
+Removed Pin From Net: NetName=D- Pin=J2-2
+Removed Pin From Net: NetName=D+ Pin=J2-3
+Removed Pin From Net: NetName=+3V8 Pin=R40-2
+Removed Pin From Net: NetName=D- Pin=U2-12
+Removed Pin From Net: NetName=D+ Pin=U2-13
+Removed Member From Class: ClassName=sim7600CE Member=C50
+Removed Member From Class: ClassName=sim7600CE Member=C51
+Removed Member From Class: ClassName=sim7600CE Member=R40
+Change Component Designator: OldDesignator=ANT NewDesignator=ANT1
+Change Component Designator: OldDesignator=C2 NewDesignator=C1
+Change Component Designator: OldDesignator=C3 NewDesignator=C2
+Change Component Designator: OldDesignator=C4 NewDesignator=C5
+Change Component Designator: OldDesignator=C5 NewDesignator=C6
+Change Component Designator: OldDesignator=C6 NewDesignator=C3
+Change Component Designator: OldDesignator=C7 NewDesignator=C4
+Change Component Designator: OldDesignator=C8 NewDesignator=C7
+Change Component Designator: OldDesignator=C9 NewDesignator=C8
+Change Component Designator: OldDesignator=C10 NewDesignator=C9
+Change Component Designator: OldDesignator=C11 NewDesignator=C10
+Change Component Designator: OldDesignator=C12 NewDesignator=C11
+Change Component Designator: OldDesignator=C13 NewDesignator=C12
+Change Component Designator: OldDesignator=C14 NewDesignator=C13
+Change Component Designator: OldDesignator=C15 NewDesignator=C14
+Change Component Designator: OldDesignator=C16 NewDesignator=C15
+Change Component Designator: OldDesignator=C17 NewDesignator=C16
+Change Component Designator: OldDesignator=C18 NewDesignator=C17
+Change Component Designator: OldDesignator=C19 NewDesignator=C18
+Change Component Designator: OldDesignator=C20 NewDesignator=C19
+Change Component Designator: OldDesignator=C21 NewDesignator=C20
+Change Component Designator: OldDesignator=C23 NewDesignator=C25
+Change Component Designator: OldDesignator=C24 NewDesignator=C27
+Change Component Designator: OldDesignator=C25 NewDesignator=C28
+Change Component Designator: OldDesignator=C26 NewDesignator=C29
+Change Component Designator: OldDesignator=C27 NewDesignator=C30
+Change Component Designator: OldDesignator=C50 NewDesignator=C23
+Change Component Designator: OldDesignator=C51 NewDesignator=C26
+Change Component Designator: OldDesignator=D2 NewDesignator=D3
+Change Component Designator: OldDesignator=D3 NewDesignator=D4
+Change Component Designator: OldDesignator=D4 NewDesignator=D5
+Change Component Designator: OldDesignator=LED1 NewDesignator=LED2
+Change Component Designator: OldDesignator=LED NewDesignator=LED1
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R3 NewDesignator=R1
+Change Component Designator: OldDesignator=R4 NewDesignator=R3
+Change Component Designator: OldDesignator=R5 NewDesignator=R4
+Change Component Designator: OldDesignator=R6 NewDesignator=R5
+Change Component Designator: OldDesignator=R7 NewDesignator=R6
+Change Component Designator: OldDesignator=R8 NewDesignator=R7
+Change Component Designator: OldDesignator=R9 NewDesignator=R10
+Change Component Designator: OldDesignator=R10 NewDesignator=R9
+Change Component Designator: OldDesignator=R40 NewDesignator=R8
+Change Component Designator: OldDesignator=U1 NewDesignator=U3
+Change Component Designator: OldDesignator=U2 NewDesignator=U1
+Change Component Designator: OldDesignator=U2 NewDesignator=U5
+Change Component Designator: OldDesignator=U3 NewDesignator=U6
+Change Component Designator: OldDesignator=U5 NewDesignator=U2
+Change Component Designator: OldDesignator=U6 NewDesignator=U4
+Added Component: Designator=C21(CAP_0603)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C24(CAP_0603)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D2(D_0402)
+Added Component: Designator=FB1(FB_0805)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V8 Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=3V8 Pin=C24-1
+Added Pin To Net: NetName=GND Pin=C24-2
+Added Pin To Net: NetName=GND Pin=d1-A
+Added Pin To Net: NetName=5V Pin=d1-C
+Added Pin To Net: NetName=GND Pin=D2-A
+Added Pin To Net: NetName=+3V8 Pin=D2-K
+Added Pin To Net: NetName=+3V8 Pin=FB1-1
+Added Pin To Net: NetName=3V8 Pin=FB1-2
+Added Pin To Net: NetName=3V8 Pin=R8-2
+Change Net Name : Old Net Name=+3V8 New Net Name=VBAT
+Change Net Name : Old Net Name=NetANT_1 New Net Name=NetANT1_1
+Change Net Name : Old Net Name=NetC13_1 New Net Name=NetC12_1
+Change Net Name : Old Net Name=NetC16_1 New Net Name=NetC15_1
+Change Net Name : Old Net Name=NetC18_1 New Net Name=NetC17_1
+Change Net Name : Old Net Name=NetC18_2 New Net Name=NetC17_2
+Change Net Name : Old Net Name=NetC19_2 New Net Name=NetC18_2
+Change Net Name : Old Net Name=NetC20_2 New Net Name=NetC19_2
+Change Net Name : Old Net Name=NetC21_2 New Net Name=NetC20_2
+Change Net Name : Old Net Name=NetC24_2 New Net Name=NetC27_2
+Change Net Name : Old Net Name=NetC25_2 New Net Name=NetC28_2
+Change Net Name : Old Net Name=NetC26_2 New Net Name=NetC29_2
+Change Net Name : Old Net Name=NetC27_2 New Net Name=NetC30_2
+Change Net Name : Old Net Name=NetLED1_1 New Net Name=NetLED2_1
+Change Net Name : Old Net Name=NetLED_1 New Net Name=NetLED1_1
+Change Net Name : Old Net Name=NetLED_2 New Net Name=NetLED1_2
+Change Net Name : Old Net Name=NetR1_2 New Net Name=NetR2_2
+Change Net Name : Old Net Name=NetR3_1 New Net Name=NetR1_1
+Change Net Name : Old Net Name=NetR4_1 New Net Name=NetR3_1
+Change Net Name : Old Net Name=NetR5_1 New Net Name=NetR4_1
+Change Net Name : Old Net Name=NetR6_1 New Net Name=NetR5_1
+Change Net Name : Old Net Name=NetR8_1 New Net Name=NetR7_1
+Added Pin To Net: NetName=USB_D+ Pin=J2-3
+Added Pin To Net: NetName=USB_D+ Pin=U5-13
+Added Net: Name=USB_D+
+Added Pin To Net: NetName=USB_D- Pin=J2-2
+Added Pin To Net: NetName=USB_D- Pin=U5-12
+Added Net: Name=USB_D-
+Added Member To Class: ClassName=sim7600CE Member=Component C6 100nF
+Added Member To Class: ClassName=sim7600CE Member=Component C28 22pF
+Added Member To Class: ClassName=sim7600CE Member=Component C29 22pF
+Added Member To Class: ClassName=sim7600CE Member=Component C30 100uF
+Added Member To Class: ClassName=sim7600CE Member=Component D5 D_TVS_0402
+Added Member To Class: ClassName=sim7600CE Member=Component FB1 FB0805
+Added Member To Class: ClassName=sim7600CE Member=Component R2 10K
+Added Member To Class: ClassName=sim7600CE Member=Component U6 TPD4E001

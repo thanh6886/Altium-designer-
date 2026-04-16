@@ -65,7 +65,7 @@ void Error_Handler(void);
 #define PWRC522_GPIO_Port GPIOA
 #define RL1_Pin GPIO_PIN_5
 #define RL1_GPIO_Port GPIOA
-
+ 
 /* USER CODE BEGIN Private defines */
 
 /* USER CODE END Private defines */
