@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=d1-A
+Removed Member From Class: ClassName=sim7600CE Member=d1
+Added Room: Name=sim7600CE

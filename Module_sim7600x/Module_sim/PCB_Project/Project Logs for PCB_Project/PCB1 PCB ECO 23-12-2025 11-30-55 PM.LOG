@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=5V Pin=d1-C
+Change component parameters: Designator = "d1" ("D1"); Footprint = "B340A"; UniqueID = "\OWBPNDPY" ("\OWBPNDPY")
+Added Member To Class: ClassName=sim7600CE Member=Component C2 100nF
+Added Member To Class: ClassName=sim7600CE Member=Component C4 1uF
+Added Member To Class: ClassName=sim7600CE Member=Component C6 100nF
+Added Member To Class: ClassName=sim7600CE Member=Component C8 0.1uF
+Added Member To Class: ClassName=sim7600CE Member=Component C10 0.1uF
+Added Member To Class: ClassName=sim7600CE Member=Component C12 22nF
+Added Member To Class: ClassName=sim7600CE Member=Component C14 100nF
+Added Member To Class: ClassName=sim7600CE Member=Component C16 C0603
+Added Member To Class: ClassName=sim7600CE Member=Component C17 22pF
+Added Member To Class: ClassName=sim7600CE Member=Component C19 C0603
+Added Member To Class: ClassName=sim7600CE Member=Component C21 1uF
+Added Member To Class: ClassName=sim7600CE Member=Component C23 100uF/10V
+Added Member To Class: ClassName=sim7600CE Member=Component C24 1uF
+Added Member To Class: ClassName=sim7600CE Member=Component C25 100nF
+Added Member To Class: ClassName=sim7600CE Member=Component C26 100uF/10V
+Added Member To Class: ClassName=sim7600CE Member=Component C27 22pF
+Added Member To Class: ClassName=sim7600CE Member=Component D2 D_TVS_0402
+Added Member To Class: ClassName=sim7600CE Member=Component D4 D_TVS_0402
+Added Member To Class: ClassName=sim7600CE Member=Component LED1 red
+Added Member To Class: ClassName=sim7600CE Member=Component R3 0
+Added Member To Class: ClassName=sim7600CE Member=Component R5 4.7K
+Added Member To Class: ClassName=sim7600CE Member=Component R7 10K
+Added Member To Class: ClassName=sim7600CE Member=Component R8 10R
+Added Member To Class: ClassName=sim7600CE Member=Component R9 0
+Added Member To Class: ClassName=sim7600CE Member=Component U1 AZ1084CD-ADJTRG1
+Added Member To Class: ClassName=sim7600CE Member=Component U5 SIM760x
+Added Member To Class: ClassName=sim7600CE Member=Component U6 TPD4E001
+Added Room: Name=sim7600CE
