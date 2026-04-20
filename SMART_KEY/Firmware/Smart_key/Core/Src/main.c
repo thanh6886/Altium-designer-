@@ -737,37 +737,39 @@ void MFRC522_StopCrypto1(void) {
 
 
 
+uint8_t check_UID(uint8_t *uid)
+{
+    if(uid[0] == 0xCE &&
+       uid[1] == 0xE3 &&
+       uid[2] == 0x80 &&
+       uid[3] == 0x1D)
+    {
+        return 1; // dúng th?
+    }
+    return 0; // sai th?
+}
 
 
 
 
 
-
-int a = 0;
+int a =0 ;
 u_char status, cardstr[MAX_LEN+1];
 
-
-
+  u_char UID[5];
+  uint16_t result = 0;
 int main(void)
 {
-
-  /* USER CODE BEGIN 1 */
-
-  /* USER CODE END 1 */
-
-  /* MCU Configuration--------------------------------------------------------*/
-
-  /* Reset of all peripherals, Initializes the Flash interface and the Systick. */
   HAL_Init();
 
   SystemClock_Config();
 
   MX_GPIO_Init();
-  MX_SPI1_Init();
+//  MX_SPI1_Init();
 
-	HAL_GPIO_WritePin(GPIOA,PWRC522_Pin|RL2_Pin|RL1_Pin, GPIO_PIN_RESET);	
+	HAL_GPIO_WritePin(GPIOA,PWRC522_Pin|RL2_Pin|RL1_Pin, GPIO_PIN_SET);	
   MFRC522_Init();
-  HAL_Delay(1000);
+  HAL_Delay(100);
 	status = Read_MFRC522(VersionReg);
   while (1)
   {
@@ -775,13 +777,31 @@ int main(void)
 	  // Find cards
 	  status = MFRC522_Request(PICC_REQIDL, cardstr);
 		if(status == MI_OK) {
-			HAL_GPIO_WritePin(GPIOA,RL2_Pin|RL1_Pin, GPIO_PIN_RESET);	
+			a++;
+			status = MFRC522_Anticoll(cardstr);
 			HAL_Delay(100);
-		HAL_GPIO_WritePin(GPIOA,RL2_Pin|RL1_Pin, GPIO_PIN_SET);	
-			HAL_Delay(100);
- }
-}
-}
+        if(status == MI_OK)
+        {
+         result++;
+			  UID[0] = cardstr[0];
+			  UID[1] = cardstr[1];
+			  UID[2] = cardstr[2];
+			  UID[3] = cardstr[3];
+
+        }
+				HAL_Delay(100);
+        
+        MFRC522_Halt();
+				MFRC522_StopCrypto1();
+				if(check_UID(UID)){
+					HAL_GPIO_WritePin(GPIOA,PWRC522_Pin, GPIO_PIN_SET);		
+					HAL_GPIO_WritePin(GPIOA,RL2_Pin|RL1_Pin, GPIO_PIN_SET);	
+		
+         }
+			}
+		}
+	}
+
 /**
   * @brief System Clock Configuration
   * @retval None

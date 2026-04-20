@@ -351,12 +351,12 @@ ARM Macro Assembler    Page 6
               00000400 
               00000200 
               00000000 
-Command Line: --xref --diag_suppress=9931 --cpu=Cortex-M0+ --apcs=interwork --d
-epend=smart_key\startup_stm32g030xx.d -osmart_key\startup_stm32g030xx.o -I.\RTE
-\_Smart_key -IC:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core
-\Include --predefine="__UVISION_VERSION SETA 536" --predefine="_RTE_ SETA 1" --
-predefine="STM32G030xx SETA 1" --predefine="_RTE_ SETA 1" --list=startup_stm32g
-030xx.lst startup_stm32g030xx.s
+Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M0+ --apcs=inter
+work --depend=smart_key\startup_stm32g030xx.d -osmart_key\startup_stm32g030xx.o
+ -I.\RTE\_Smart_key -IC:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CM
+SIS\Core\Include --predefine="__UVISION_VERSION SETA 536" --predefine="_RTE_ SE
+TA 1" --predefine="STM32G030xx SETA 1" --predefine="_RTE_ SETA 1" --list=startu
+p_stm32g030xx.lst startup_stm32g030xx.s
 
 
 
